@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on developing websites.
 - 📫 How to reach me georgeankumensah@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=georgeankumensah)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=georgeankumensah&theme=dark)](https://git.io/streak-stats)
 
 <!---
 georgeankumensah/georgeankumensah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
