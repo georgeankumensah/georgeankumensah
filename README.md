@@ -1,5 +1,7 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align= "right" alt="Coding" style="width:fill-container" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e479m3lbjwgjj3sk1sgoy7uzqioqibu1p5mhft9mw9w&rid=giphy.gif&ct=g">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </div>
 
 <h1 align="center">Hi , I'm George Anku-Mensah</h1>
 <h3 align="center">(Software Engineer && UI/UX Designer)</h3>
