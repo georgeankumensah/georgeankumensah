@@ -1,4 +1,4 @@
-<img align= "right" alt="Coding" style="width:100%;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e479m3lbjwgjj3sk1sgoy7uzqioqibu1p5mhft9mw9w&rid=giphy.gif&ct=g">
+<img align= "right" alt="Coding" style="width:100%;" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e479m3lbjwgjj3sk1sgoy7uzqioqibu1p5mhft9mw9w&rid=giphy.gif&ct=g">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h1 align="center">Hi , I'm George Anku-Mensah</h1>
 <h3 align="center">(Software Engineer && UI/UX Designer)</h3>
