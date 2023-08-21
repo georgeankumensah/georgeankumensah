@@ -11,7 +11,7 @@
  
 
 
- ![Profile views](https://gpvc.arturio.dev/georgeankumensah)  
+![Profile views](https://gpvc.arturio.dev/georgeankumensah)  
  
 
 ### Skills
@@ -26,7 +26,7 @@
 
 </p>
 
-
+---
 
 ### Socials
 
@@ -34,7 +34,7 @@
  <a href="https://www.github.com/georgeankumensah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/george-anku-mensah-a36577226/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
 </p>
-
+---
 ## &#x1f4c8; Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
