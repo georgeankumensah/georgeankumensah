@@ -55,7 +55,8 @@
  <a href="https://github.com/georgeankumensah"><img alt="George's Github Stats" src="https://github-readme-stats.vercel.app/api?username=georgeankumensah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
 
 </p>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
