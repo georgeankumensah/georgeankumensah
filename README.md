@@ -61,7 +61,7 @@
 ---
 
 
-<a href="http://www.github.com/georgeankumensah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeankumensah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="http://www.github.com/georgeankumensah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeankumensah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> &nbsp;&nbsp;  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
