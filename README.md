@@ -60,6 +60,9 @@
 
 [![George's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=georgeankumensah&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 
