@@ -53,14 +53,16 @@
 
 <p>
  <a href="https://github.com/georgeankumensah"><img alt="George's Github Stats" src="https://github-readme-stats.vercel.app/api?username=georgeankumensah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
+---
 
 
 <a href="http://www.github.com/georgeankumensah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=georgeankumensah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgeankumensah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
