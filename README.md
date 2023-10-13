@@ -12,6 +12,9 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/georgeankumensah)  
+
+[![An image of @georgeankumensah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/georgeankumensah)](https://holopin.io/@georgeankumensah)
+
  
 
 ### Skills
