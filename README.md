@@ -31,6 +31,7 @@
 
 ### 📝Software
 ### 🐬Database
+[![My Skills](https://skillicons.dev/icons?i=firebase,graphql,postgres,sqlite)](https://skillicons.dev)
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
