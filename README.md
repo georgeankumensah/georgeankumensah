@@ -52,10 +52,7 @@
   </ul>
 </div>
 
-<br>
-
-<p align="center"><!-----Social Accounts------>
-
+<!-----Social Accounts------>
 <p align="center">
  <a href="">
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
@@ -87,8 +84,6 @@
 </p>
 
 <br>
-
-
 
 <!--profile visit count-->
 <div align="center">
