@@ -47,19 +47,11 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">>Connect with Me</h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'></summary>
+  <ul align="">
+    <summary><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><h2 style="display: inline-block">Connect with Me</h2></summary>
   </ul>
 </div>
 
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
- 
- 
 <br>
 
 <p align="center"><!-----Social Accounts------>
