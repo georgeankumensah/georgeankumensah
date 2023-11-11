@@ -2,8 +2,9 @@
 <h3 font-size="20" align="center">A passionate Fullstack Cloud Native developer and a student from Ghana.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** 
-- 👯 I’m looking to collaborate on cool project
+- 🌱 I’m currently learning **To be Extroverted**
+  
+- 👯 I’m looking to collaborate on any cool project
 
 - 🤝 I’m looking for help with **Backend Design**
 
