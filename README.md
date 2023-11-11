@@ -16,7 +16,7 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
  
  
