@@ -16,21 +16,46 @@
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
-<!--icons and links-->
+ 
+ 
+<br>
+
+<p align="center"><!-----Social Accounts------>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+ <a href="">
+ <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ </a>
+
+ <a href="https://www.linkedin.com/in/alamin20/">
+ 
+ <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ </a>
+
+ <a href="https://twitter.com/">
+ <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ </a>
+
+ <a href="https://www.instagram.com/">
+ <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ </a>
+
+ <a href="https://t.me/alamin2me">
+ <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+ </a>
+
+ <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+ </a>
+ <a href="mailto:alamin.contact24@gmail.com">
+ <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
 </p>
+
+<br>
+
 
 
 <!--profile visit count-->
