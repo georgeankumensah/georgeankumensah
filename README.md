@@ -26,6 +26,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,java,md,py,ts,)](https://skillicons.dev)
 
 ### ⚛️Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,fastapi,flask,flutter,nestjs,nextjs,nodejs,react,sass,solidity,tailwind,threejs)](https://skillicons.dev)
+
 ### 📝Software
 ### 🐬Database
 <!--h1 without bottom border-->
