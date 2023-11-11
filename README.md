@@ -29,13 +29,18 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,fastapi,flask,flutter,nestjs,nextjs,nodejs,react,sass,solidity,tailwind,threejs)](https://skillicons.dev)
 
-### 📝Software
 ### ⚙️Tools/libraries
 
-[![My Skills](https://skillicons.dev/icons?i=babel,bash,deno,gatsby,jest,maven,redis,redux,regex,styledcomponents,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=babel,bash,deno,gatsby,jest,maven,redis,redux,regex,styledcomponents,vite,webpack,git,gradle)](https://skillicons.dev)
 
 ### 🐬Database
+
 [![My Skills](https://skillicons.dev/icons?i=firebase,graphql,postgres,sqlite,mongodb,mysql)](https://skillicons.dev)
+
+### 📝Software
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,idea,postman,vscode,vim,wordpress)](https://skillicons.dev)
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
