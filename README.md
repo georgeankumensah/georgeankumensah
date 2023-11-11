@@ -19,7 +19,11 @@
 
 
 ---
-
+<h1 align="left">🧠 Skills Showcase</h1>
+### ☕️Languages
+### ⚛️Frameworks
+### 📝Software
+### 🐬Database
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
