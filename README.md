@@ -41,6 +41,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,figma,idea,postman,vscode,vim,wordpress)](https://skillicons.dev)
 
+### ☁️Cloud / DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,nginx)](https://skillicons.dev)
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
