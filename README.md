@@ -22,7 +22,7 @@
 <h1 align="left">🧠 Skills Showcase</h1>
 ### ☕️Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,dart,java,md,py,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,java,md,py,ts,)](https://skillicons.dev)
 
 ### ⚛️Frameworks
 ### 📝Software
