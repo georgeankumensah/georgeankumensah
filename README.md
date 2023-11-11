@@ -6,8 +6,7 @@
 <h3 font-size="20" align="center">A passionate Fullstack Cloud Native developer and a student from Ghana.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
+- 🌱 I’m currently learning **To be Extroverted** 
 - 👯 I’m looking to collaborate on **Spring Framework**
 
 - 🤝 I’m looking for help with **Backend Design**
