@@ -47,7 +47,7 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="">
+  <ul align="center">
     <summary><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><h2 style="display: inline-block">Connect with Me</h2></summary>
   </ul>
 </div>
@@ -61,27 +61,27 @@
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com/in/georgeankumensah/">
  
- <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ <img border="0" alt="George's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
- <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ <a href="https://twitter.com/blaccgeorge">
+ <img border="0" alt="Blaccgeorge" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
  <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ <img border="0" alt="George's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
+ <a href="https://t.me/">
+ <img border="0" alt="George's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
  <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+ <img border="0" alt="George (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:georgeankumensah@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
@@ -93,7 +93,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=blaccgeorge&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
