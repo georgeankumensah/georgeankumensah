@@ -48,6 +48,10 @@
     <summary><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><h2 style="display: inline-block">Connect with Me</h2></summary>
   </ul>
 </div>
+<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kofnet002&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
 <!-----Social Accounts------>
 <p align="center">
