@@ -42,16 +42,19 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,nginx)](https://skillicons.dev)
 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=georgeankumensah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<br/>
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'><h2 style="display: inline-block">Connect with Me</h2></summary>
   </ul>
 </div>
-<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kofnet002&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-<br/>
 
 <!-----Social Accounts------>
 <p align="center">
