@@ -44,11 +44,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=georgeankumensah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-<br/>
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
