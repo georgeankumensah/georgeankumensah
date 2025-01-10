@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm George Anku-Mensah <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">A passionate Fullstack Cloud Native developer and a student from Ghana.</h3>
+<h3 font-size="20" align="center">Fullstack Cloud Native developer.</h3>
 
 
 - 🌱 I’m currently learning **To be Extroverted**
