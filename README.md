@@ -20,15 +20,15 @@
 
 ### ☕️Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,java,md,py,ts,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,java,md,py,ts,rust)](https://skillicons.dev)
 
 ### ⚛️Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,fastapi,flask,flutter,nestjs,nextjs,nodejs,react,sass,solidity,tailwind,threejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,fastapi,flask,flutter,nestjs,nextjs,nodejs,react,angular,sass,solidity,tailwind,threejs,spring)](https://skillicons.dev)
 
 ### ⚙️Tools/libraries
 
-[![My Skills](https://skillicons.dev/icons?i=babel,bash,deno,gatsby,jest,maven,redis,redux,regex,styledcomponents,vite,webpack,git,gradle)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=babel,bash,deno,gatsby,jest,maven,redis,redux,regex,styledcomponents,apollo,vite,webpack,git,gradle)](https://skillicons.dev)
 
 ### 🐬Database
 
