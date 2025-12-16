@@ -24,7 +24,7 @@
 
 ### ⚛️Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,fastapi,flask,flutter,nestjs,nextjs,nodejs,react,angular,sass,solidity,tailwind,threejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,django,express,fastapi,flask,flutter,nestjs,nextjs,nodejs,react,angular,vue,nuxtjs,sass,solidity,tailwind,threejs,spring)](https://skillicons.dev)
 
 ### ⚙️Tools/libraries
 
